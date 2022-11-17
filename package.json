@@ -1,0 +1,24 @@
+{
+  "name": "discordjstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/rest": "^0.5.0",
+    "discord-api-types": "^0.36.2",
+    "discord.js": "^13.9.0",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.4.4",
+    "random": "^3.0.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0"
+  }
+}
